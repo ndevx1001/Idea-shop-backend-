@@ -1,0 +1,1131 @@
+{
+  "products": [
+    {
+      "characteristics": {
+        "weight": "10.0 kg",
+        "country_of_origin": "Турция",
+        "material": "Алюминий и текстиль",
+        "color": "Серый"
+      },
+      "_id": 26,
+      "name": "Коляска-трансформер 2 в 1",
+      "category": "Коляски",
+      "description": "Универсальная коляска-трансформер для новорожденных и малышей.",
+      "price": 19990,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4,
+      "img": "https://basket-03.wbbasket.ru/vol403/part40391/40391771/images/big/1.webpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "2.0 kg",
+        "country_of_origin": "Россия",
+        "material": "Пластик",
+        "color": "Оранжевый"
+      },
+      "_id": 49,
+      "name": "Магнитный конструктор 200 деталей",
+      "category": "Конструкторы",
+      "description": "Большой магнитный конструктор для сложных конструкций.",
+      "price": 2990,
+      "old_price": 3490,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4.8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh6TMacpk069tUEe0MeLTbHFzB9K3bCG1CXQ&s",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.4 kg",
+        "country_of_origin": "Россия",
+        "material": "Текстиль",
+        "color": "Бежевый"
+      },
+      "_id": 46,
+      "name": "Плюшевая лама",
+      "category": "Для девочек",
+      "description": "Мягкая плюшевая лама для детских игр и объятий.",
+      "price": 1490,
+      "old_price": 1990,
+      "currency": "RUB",
+      "tags": [
+        "скидка"
+      ],
+      "rating": 4.6,
+      "img": "https://basket-13.wbbasket.ru/vol2002/part200254/200254100/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.5 kg",
+        "country_of_origin": "Германия",
+        "material": "Пластик",
+        "color": "Белый"
+      },
+      "_id": 43,
+      "name": "Набор для кормления малыша",
+      "category": "Для новорожденных",
+      "description": "Набор посуды для кормления малышей, безопасный и удобный.",
+      "price": 1990,
+      "old_price": 2490,
+      "currency": "RUB",
+      "tags": [
+        "скидка"
+      ],
+      "rating": 4.5,
+      "img": "https://ir.ozone.ru/s3/multimedia-k/c1000/6832617932.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.6 kg",
+        "country_of_origin": "Россия",
+        "material": "Кожа синтетическая",
+        "color": "Оранжевый"
+      },
+      "_id": 24,
+      "name": "Баскетбольный мяч",
+      "category": "Спорт",
+      "description": "Прочный баскетбольный мяч для игр на улице и в зале.",
+      "price": 690,
+      "old_price": 890,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.3,
+      "img": "https://sportgoroda.ru/image/cache/catalog/img2025/prod_375_1744180816_28fe5f24-1000x1000.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.1 kg",
+        "country_of_origin": "Россия",
+        "material": "Пластик",
+        "color": "Белый"
+      },
+      "_id": 10,
+      "name": "Кубик Рубика 3x3",
+      "category": "Для мальчиков",
+      "description": "Классический кубик Рубика 3x3 для развития логики и моторики.",
+      "price": 690,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.8,
+      "img": "https://hobbypark.kg/upload/iblock/27c/quqa249spzvqts7bdisoop8vdxhqouh4.png",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "12.0 kg",
+        "country_of_origin": "Турция",
+        "material": "Алюминий и текстиль",
+        "color": "Черный"
+      },
+      "_id": 50,
+      "name": "Коляска-трансформер 3 в 1",
+      "category": "Коляски",
+      "description": "Многофункциональная коляска-трансформер для детей от 0 до 3 лет.",
+      "price": 24990,
+      "old_price": 29990,
+      "currency": "RUB",
+      "tags": [
+        "скидка"
+      ],
+      "rating": 4.5,
+      "img": "https://basket-16.wbbasket.ru/vol2461/part246142/246142486/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.4 kg",
+        "country_of_origin": "Турция",
+        "material": "Пластик",
+        "color": "Серый"
+      },
+      "_id": 16,
+      "name": "Фигурка динозавра Велоцираптор",
+      "category": "Для мальчиков",
+      "description": "Детализированная фигурка велоцираптора для игр и коллекций.",
+      "price": 2490,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.2,
+      "img": "https://basket-15.wbbasket.ru/vol2310/part231022/231022501/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.015 kg",
+        "country_of_origin": "Германия",
+        "material": "Пластик",
+        "color": "Черный"
+      },
+      "_id": 52,
+      "name": "Шариковая ручка с черными чернилами",
+      "category": "Канцелярия",
+      "description": "Классическая шариковая ручка для ежедневного использования.",
+      "price": 120,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [
+        "хит"
+      ],
+      "rating": 4.2,
+      "img": "https://basket-14.wbbasket.ru/vol2126/part212610/212610735/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.3 kg",
+        "country_of_origin": "Германия",
+        "material": "Текстиль",
+        "color": "Серый"
+      },
+      "_id": 44,
+      "name": "Плюшевая коала",
+      "category": "Для девочек",
+      "description": "Мягкая плюшевая коала для игр и украшения комнаты.",
+      "price": 990,
+      "old_price": 1290,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4.8,
+      "img": "https://trixie.ru/media/products/2021/11/25/PHO_PRO_CLIP_35673-1_SALL_AWK_V1.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.4 kg",
+        "country_of_origin": "Россия",
+        "material": "Текстиль",
+        "color": "Белый"
+      },
+      "_id": 39,
+      "name": "Мягкая игрушка Единорог",
+      "category": "Для девочек",
+      "description": "Мягкий единорог для игр и украшения детской комнаты.",
+      "price": 1990,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWQIu9u7X4pdoY7NZNagnwO6XuFV02-gQcMw&s",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.2 kg",
+        "country_of_origin": "Германия",
+        "material": "Текстиль",
+        "color": "Серый"
+      },
+      "_id": 11,
+      "name": "Игрушечный кот Мурзик",
+      "category": "Для мальчиков",
+      "description": "Мягкая игрушка кота Мурзика для веселых игр и украшения комнаты.",
+      "price": 790,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXZqd7Kq9St70aPDwCZpeJIcgPujUaVmsbw&s",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.7 kg",
+        "country_of_origin": "Турция",
+        "material": "Текстиль",
+        "color": "Синий"
+      },
+      "_id": 31,
+      "name": "Школьный рюкзак Classic",
+      "category": "Аксессуары",
+      "description": "Прочный школьный рюкзак с ортопедической спинкой.",
+      "price": 1490,
+      "old_price": 1990,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4.4,
+      "img": "https://assets.adidas.com/images/w_1000,f_auto,q_auto/eba99ec2124043949ae4ac9500e7a801_9366/Ryukzak_Classic_sinij_GN7384_01_standard.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.4 kg",
+        "country_of_origin": "Германия",
+        "material": "Дерево",
+        "color": "Коричневый"
+      },
+      "_id": 45,
+      "name": "Домино деревянное",
+      "category": "Настольные игры",
+      "description": "Классическое деревянное домино для семейных игр.",
+      "price": 890,
+      "old_price": 1090,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.7,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdLCvB2Xvq_I-uQbsupGZqvJSxuvozSN5fpQ&s",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.5 kg",
+        "country_of_origin": "Турция",
+        "material": "Пластик",
+        "color": "Белый"
+      },
+      "_id": 17,
+      "name": "Набор домино классический",
+      "category": "Настольные игры",
+      "description": "Классическое домино для семейных игр и развития логики.",
+      "price": 790,
+      "old_price": 990,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4.1,
+      "img": "https://basket-25.wbbasket.ru/vol4510/part451021/451021758/images/c516x688/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.5 kg",
+        "country_of_origin": "Китай",
+        "material": "Картон",
+        "color": "Многоцветный"
+      },
+      "_id": 40,
+      "name": "Пазл 500 элементов",
+      "category": "Развитие",
+      "description": "Пазл на 500 элементов для развития внимания и логики.",
+      "price": 790,
+      "old_price": 990,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.8,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTZjgOfewH9yNbJHfet05OuMZDH3SuoAf4LQ&s",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.5 kg",
+        "country_of_origin": "Россия",
+        "material": "Пластик и текстиль",
+        "color": "Розовый"
+      },
+      "_id": 48,
+      "name": "Кукла принцесса",
+      "category": "Для девочек",
+      "description": "Кукла принцесса в красивом платье для ролевых игр.",
+      "price": 1490,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.4,
+      "img": "https://basket-01.wbbasket.ru/vol83/part8303/8303098/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "1.0 kg",
+        "country_of_origin": "Китай",
+        "material": "Текстиль",
+        "color": "Зеленый"
+      },
+      "_id": 21,
+      "name": "Рюкзак для путешествий Explorer",
+      "category": "Аксессуары",
+      "description": "Прочный рюкзак для путешествий с водоотталкивающим покрытием.",
+      "price": 3990,
+      "old_price": 4990,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZlMXwU-ciozMNCUS028w_jX9dq3iRKe4yIA&s",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.1 kg",
+        "country_of_origin": "Россия",
+        "material": "Пластик",
+        "color": "Желтый"
+      },
+      "_id": 7,
+      "name": "Фигурка Миньона Боб",
+      "category": "Для мальчиков",
+      "description": "Фигурка Миньона Боба для увлекательных игр и коллекционирования.",
+      "price": 1090,
+      "old_price": 1390,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.3,
+      "img": "https://igromaster.by/upload/iblock/358/ejaig5fqld7gsfbpr57i91dyfulfabt6.webp?1651755061",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.4 kg",
+        "country_of_origin": "Турция",
+        "material": "Кожа синтетическая",
+        "color": "Белый"
+      },
+      "_id": 13,
+      "name": "Футбольный мяч",
+      "category": "Спорт",
+      "description": "Прочный футбольный мяч для игр на улице и тренировок.",
+      "price": 590,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.2,
+      "img": "https://redmond.ru/storage/upload/pages/Mebelnaya-obivka-i-vidy-iskusstvennoj-kozhi.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.02 kg",
+        "country_of_origin": "Россия",
+        "material": "Пластик",
+        "color": "Синий"
+      },
+      "_id": 1,
+      "name": "Гелевая ручка с синими чернилами",
+      "category": "Канцелярия",
+      "description": "Гелевая ручка с синими чернилами для комфортного письма. Эргономичный дизайн, подходит для школы и офиса.",
+      "price": 150,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [
+        "хит"
+      ],
+      "rating": 4.8,
+      "img": "https://double.kg/wp-content/uploads/afa79f09d46511ed8400000c29461ad6_afa79f0cd46511ed8400000c29461ad6.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.06 kg",
+        "country_of_origin": "Китай",
+        "material": "Резина и текстиль",
+        "color": "Желтый"
+      },
+      "_id": 34,
+      "name": "Теннисный мяч",
+      "category": "Спорт",
+      "description": "Теннисный мяч для тренировок и игр на корте.",
+      "price": 390,
+      "old_price": 590,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4.2,
+      "img": "https://img5.lalafo.com/i/posters/api/19/f4/e8/d8597958f9681bda0b240c7ef3.jpeg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "1.2 kg",
+        "country_of_origin": "Китай",
+        "material": "Картон",
+        "color": "Многоцветный"
+      },
+      "_id": 15,
+      "name": "Настольная игра 'Монополия'",
+      "category": "Настольные игры",
+      "description": "Классическая экономическая игра 'Монополия' для всей семьи.",
+      "price": 1990,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.6,
+      "img": "https://hobbypark.kg/upload/iblock/68b/c04bklreej07m5n0ut2je3nq3i98eout.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.1 kg",
+        "country_of_origin": "Турция",
+        "material": "Шерсть",
+        "color": "Бежевый"
+      },
+      "_id": 20,
+      "name": "Шерстяная шапка Winter",
+      "category": "Аксессуары",
+      "description": "Теплая шерстяная шапка для холодной погоды.",
+      "price": 790,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.1,
+      "img": "https://helikon-tex.ru/wp-content/uploads/2024/02/4119876259.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.7 kg",
+        "country_of_origin": "Турция",
+        "material": "Картон",
+        "color": "Многоцветный"
+      },
+      "_id": 53,
+      "name": "Настольная игра 'Эрудит'",
+      "category": "Настольные игры",
+      "description": "Игра 'Эрудит' для развития словарного запаса и логики.",
+      "price": 990,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [
+        "новинка"
+      ],
+      "rating": 4.2,
+      "img": "https://www.igroved.ru/db/games/images/88/988/igroved_erudit_04.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.15 kg",
+        "country_of_origin": "Турция",
+        "material": "Пластик",
+        "color": "Многоцветный"
+      },
+      "_id": 8,
+      "name": "Набор цветных фломастеров 12 цветов",
+      "category": "Канцелярия",
+      "description": "Набор из 12 ярких фломастеров для творчества и учебы.",
+      "price": 590,
+      "old_price": 790,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.7,
+      "img": "https://storage.yandexcloud.net/mostro-gm-media/04f96efa-2a5d-b0d6-e567-66a1e136b364/6B2TRAD.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "4.0 kg",
+        "country_of_origin": "Германия",
+        "material": "Пластик и текстиль",
+        "color": "Черный"
+      },
+      "_id": 19,
+      "name": "Детское автокресло 0+",
+      "category": "Для новорожденных",
+      "description": "Безопасное автокресло для новорожденных с мягкой обивкой.",
+      "price": 5990,
+      "old_price": 7990,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.9,
+      "img": "https://yoyo.kg/wp-content/uploads/2023/01/c2c6f8ba1fcfaa6f3872d10d93eefaa6.jpeg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.3 kg",
+        "country_of_origin": "Россия",
+        "material": "Текстиль",
+        "color": "Коричневый"
+      },
+      "_id": 9,
+      "name": "Плюшевый медвежонок Teddy",
+      "category": "Для девочек",
+      "description": "Мягкий плюшевый медвежонок для уютных объятий и игр.",
+      "price": 1490,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf2W4PuCGOpFNUxeS5UMJIwd7V6z5hSURVaQ&s",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.3 kg",
+        "country_of_origin": "Германия",
+        "material": "Кожа синтетическая",
+        "color": "Белый"
+      },
+      "_id": 33,
+      "name": "Волейбольный мяч",
+      "category": "Спорт",
+      "description": "Прочный волейбольный мяч для игр на пляже и в зале.",
+      "price": 690,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [
+        "новинка"
+      ],
+      "rating": 4.4,
+      "img": "https://sportev.ru/upload/cssinliner_webp/iblock/75b/kvfhoges901htyccwspliqosmo4paf6n/46290939_e6be_11ee_841f_0050569313d7_4551d84d_ebb1_11ee_841f_0050569313d7.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "1.8 kg",
+        "country_of_origin": "Турция",
+        "material": "Пластик",
+        "color": "Зеленый"
+      },
+      "_id": 51,
+      "name": "Магнитный конструктор 150 деталей",
+      "category": "Конструкторы",
+      "description": "Магнитный конструктор для творчества и развития логики.",
+      "price": 2490,
+      "old_price": 2990,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4.2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQog3CrfKGb1WiV3MpoqY5GKw1AoNA6hRfV4g&s",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "6.5 kg",
+        "country_of_origin": "Турция",
+        "material": "Алюминий и текстиль",
+        "color": "Зеленый"
+      },
+      "_id": 4,
+      "name": "Прогулочная коляска Comfort",
+      "category": "Коляски",
+      "description": "Легкая и маневренная прогулочная коляска с удобным складыванием для активных родителей.",
+      "price": 14990,
+      "old_price": 17990,
+      "currency": "RUB",
+      "tags": [
+        "скидка"
+      ],
+      "rating": 4.9,
+      "img": "https://rentalc.ru/upload/iblock/65f/hl0yvbju6ehql92jrppbpi2w4510f4q6.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "1.0 kg",
+        "country_of_origin": "Турция",
+        "material": "Картон",
+        "color": "Черный"
+      },
+      "_id": 2,
+      "name": "Настольная игра 'Стратегия'",
+      "category": "Настольные игры",
+      "description": "Увлекательная стратегическая настольная игра для всей семьи. Развивает логику и тактическое мышление.",
+      "price": 2490,
+      "old_price": 2990,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4.2,
+      "img": "https://upload.wikimedia.org/wikipedia/ru/c/c7/Stratego_setup.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.15 kg",
+        "country_of_origin": "Россия",
+        "material": "Картон",
+        "color": "Многоцветный"
+      },
+      "_id": 35,
+      "name": "Карточная игра 'Свинтус'",
+      "category": "Настольные игры",
+      "description": "Веселая карточная игра 'Свинтус' для дружеских посиделок.",
+      "price": 490,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4,
+      "img": "https://inteltoys.ru/files/articles/2018/05/648/648-3.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.1 kg",
+        "country_of_origin": "Турция",
+        "material": "Шерсть",
+        "color": "Серый"
+      },
+      "_id": 38,
+      "name": "Вязаная шапка Cozy",
+      "category": "Аксессуары",
+      "description": "Теплая вязаная шапка для детей и подростков.",
+      "price": 690,
+      "old_price": 990,
+      "currency": "RUB",
+      "tags": [
+        "скидка"
+      ],
+      "rating": 4.7,
+      "img": "https://png.pngtree.com/png-clipart/20250607/original/pngtree-stylish-cozy-knitted-beanie-hat-perfect-for-cold-weather-high-resolution-png-image_21134859.png",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "1.5 kg",
+        "country_of_origin": "Россия",
+        "material": "Пластик",
+        "color": "Фиолетовый"
+      },
+      "_id": 22,
+      "name": "Магнитный конструктор 100 деталей",
+      "category": "Конструкторы",
+      "description": "Магнитный конструктор для развития воображения и моторики.",
+      "price": 2490,
+      "old_price": 2990,
+      "currency": "RUB",
+      "tags": [
+        "скидка"
+      ],
+      "rating": 4.7,
+      "img": "https://basket-15.wbbasket.ru/vol2358/part235880/235880300/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.8 kg",
+        "country_of_origin": "Турция",
+        "material": "Картон",
+        "color": "Многоцветный"
+      },
+      "_id": 32,
+      "name": "Настольная игра 'Диксит'",
+      "category": "Настольные игры",
+      "description": "Креативная настольная игра 'Диксит' для развития воображения.",
+      "price": 2490,
+      "old_price": 2990,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.5,
+      "img": "https://object.pscloud.io/cms/cms/Photo/img_0_1048_447_1.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.3 kg",
+        "country_of_origin": "Германия",
+        "material": "Текстиль",
+        "color": "Коричневый"
+      },
+      "_id": 47,
+      "name": "Медвежонок с бантом",
+      "category": "Для девочек",
+      "description": "Мягкий медвежонок с бантом для уютных игр.",
+      "price": 990,
+      "old_price": 1290,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4,
+      "img": "https://azaliadecor.ru/upload/iblock/f34/0qqo5da1sucrb1j8zlccti96xf1irrot.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.8 kg",
+        "country_of_origin": "Германия",
+        "material": "Пластик",
+        "color": "Синий"
+      },
+      "_id": 23,
+      "name": "Магнитный конструктор 50 деталей",
+      "category": "Конструкторы",
+      "description": "Компактный магнитный конструктор для творческих игр.",
+      "price": 1990,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [
+        "новинка"
+      ],
+      "rating": 4,
+      "img": "https://goods-photos.static1-sima-land.com/items/2122895/0/700-nw.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "7.0 kg",
+        "country_of_origin": "Турция",
+        "material": "Алюминий и текстиль",
+        "color": "Синий"
+      },
+      "_id": 5,
+      "name": "Прогулочная коляска Travel",
+      "category": "Коляски",
+      "description": "Компактная прогулочная коляска с амортизацией для комфортных прогулок.",
+      "price": 16990,
+      "old_price": 19990,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTidF9cmanQOeq8qG4lMjMf19JJWm8E71OKlw&s",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "8.0 kg",
+        "country_of_origin": "Германия",
+        "material": "Алюминий",
+        "color": "Красный"
+      },
+      "_id": 12,
+      "name": "Детский велосипед 16 дюймов",
+      "category": "Спорт",
+      "description": "Детский велосипед с 16-дюймовыми колесами для активного отдыха.",
+      "price": 7990,
+      "old_price": 9990,
+      "currency": "RUB",
+      "tags": [
+        "скидка"
+      ],
+      "rating": 4.5,
+      "img": "https://velo.kg/wp-content/uploads/2023/03/velosiped-detskiy-biskek1-550x550.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.8 kg",
+        "country_of_origin": "Россия",
+        "material": "Текстиль",
+        "color": "Черный"
+      },
+      "_id": 18,
+      "name": "Городской рюкзак Urban",
+      "category": "Аксессуары",
+      "description": "Стильный городской рюкзак с отделением для ноутбука.",
+      "price": 2990,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4,
+      "img": "https://login.kg/image/cache/catalog/demo/product/Accessuars/Live%20Style/Mi%20Business/451001409_w0_h0_1-500x400.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.4 kg",
+        "country_of_origin": "Россия",
+        "material": "Бумага",
+        "color": "Многоцветный"
+      },
+      "_id": 54,
+      "name": "Развивающая книга с заданиями",
+      "category": "Развитие",
+      "description": "Книга с развивающими заданиями для детей дошкольного возраста.",
+      "price": 690,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.6,
+      "img": "https://basket-13.wbbasket.ru/vol2000/part200049/200049982/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.15 kg",
+        "country_of_origin": "Китай",
+        "material": "Пластик",
+        "color": "Красный"
+      },
+      "_id": 28,
+      "name": "Кубик Рубика 4x4",
+      "category": "Для мальчиков",
+      "description": "Кубик Рубика 4x4 для продвинутых головоломщиков.",
+      "price": 890,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [
+        "хит"
+      ],
+      "rating": 4.2,
+      "img": "https://ir.ozone.ru/s3/multimedia-r/c1000/6038530287.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.6 kg",
+        "country_of_origin": "Германия",
+        "material": "Картон",
+        "color": "Многоцветный"
+      },
+      "_id": 42,
+      "name": "Карточная игра 'Имаджинариум'",
+      "category": "Настольные игры",
+      "description": "Игра 'Имаджинариум' для развития воображения и ассоциаций.",
+      "price": 1490,
+      "old_price": 1990,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.4,
+      "img": "https://www.mosigra.ru/image/cache/data/%D0%A2%D0%BE%D0%B2%D0%B0%D1%80%D1%8B/Cosmodrome%20Games/%D0%98%D0%BC%D0%B0%D0%B4%D0%B6%D0%B8%D0%BD%D0%B0%D1%80%D0%B8%D1%83%D0%BC%20(2021)/DSC_6856-1024x1024-wm.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "5.0 kg",
+        "country_of_origin": "Россия",
+        "material": "Пластик и текстиль",
+        "color": "Синий"
+      },
+      "_id": 41,
+      "name": "Автокресло 1-3",
+      "category": "Для новорожденных",
+      "description": "Универсальное автокресло для детей от 1 до 3 лет.",
+      "price": 6990,
+      "old_price": 8990,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4.8,
+      "img": "https://basket-04.wbbasket.ru/vol683/part68356/68356829/images/c516x688/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.3 kg",
+        "country_of_origin": "Турция",
+        "material": "Пластик",
+        "color": "Зеленый"
+      },
+      "_id": 3,
+      "name": "Фигурка динозавра Ти-Рекс",
+      "category": "Для мальчиков",
+      "description": "Реалистичная фигурка динозавра Ти-Рекс для детских игр и коллекционирования.",
+      "price": 1990,
+      "old_price": 2490,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4.6,
+      "img": "https://ir.ozone.ru/s3/multimedia-r/c1000/6899930811.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "3.0 kg",
+        "country_of_origin": "Германия",
+        "material": "Пластик и металл",
+        "color": "Голубой"
+      },
+      "_id": 25,
+      "name": "Детские горные лыжи",
+      "category": "Спорт",
+      "description": "Детские горные лыжи для начинающих спортсменов.",
+      "price": 4990,
+      "old_price": 6990,
+      "currency": "RUB",
+      "tags": [
+        "скидка"
+      ],
+      "rating": 4.4,
+      "img": "https://ir.ozone.ru/s3/multimedia-j/c1000/6105805495.jpg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.4 kg",
+        "country_of_origin": "Турция",
+        "material": "Текстиль",
+        "color": "Синий"
+      },
+      "_id": 27,
+      "name": "Детский рюкзак Mini",
+      "category": "Аксессуары",
+      "description": "Легкий детский рюкзак для школы и прогулок.",
+      "price": 990,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [],
+      "rating": 4.7,
+      "img": "https://basket-10.wbbasket.ru/vol1590/part159054/159054520/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.3 kg",
+        "country_of_origin": "Турция",
+        "material": "Бумага",
+        "color": "Многоцветный"
+      },
+      "_id": 36,
+      "name": "Развивающая книга с наклейками",
+      "category": "Развитие",
+      "description": "Книга с наклейками для развития мелкой моторики и воображения.",
+      "price": 590,
+      "old_price": null,
+      "currency": "RUB",
+      "tags": [
+        "новинка"
+      ],
+      "rating": 4.8,
+      "img": "https://basket-01.wbbasket.ru/vol98/part9893/9893041/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "6.0 kg",
+        "country_of_origin": "Германия",
+        "material": "Алюминий и текстиль",
+        "color": "Серый"
+      },
+      "_id": 37,
+      "name": "Прогулочная коляска Compact",
+      "category": "Коляски",
+      "description": "Компактная прогулочная коляска с легким складыванием.",
+      "price": 8990,
+      "old_price": 10990,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.1,
+      "img": "https://basket-13.wbbasket.ru/vol2035/part203511/203511274/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "5.5 kg",
+        "country_of_origin": "Германия",
+        "material": "Алюминий и текстиль",
+        "color": "Зеленый"
+      },
+      "_id": 30,
+      "name": "Легкая прогулочная коляска",
+      "category": "Коляски",
+      "description": "Легкая прогулочная коляска для удобных прогулок с ребенком.",
+      "price": 7990,
+      "old_price": 9990,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4,
+      "img": "https://basket-01.wbbasket.ru/vol77/part7783/7783924/images/big/1.webp",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.2 kg",
+        "country_of_origin": "Россия",
+        "material": "Картон",
+        "color": "Многоцветный"
+      },
+      "_id": 14,
+      "name": "Карточная игра 'Уно'",
+      "category": "Настольные игры",
+      "description": "Классическая карточная игра 'Уно' для веселого времяпрепровождения.",
+      "price": 490,
+      "old_price": 690,
+      "currency": "RUB",
+      "tags": [
+        "скидка"
+      ],
+      "rating": 4.5,
+      "img": "https://img5.lalafo.com/i/posters/api/91/cb/78/nastolnaa-kartocnaa-igra-uno-uno-id-58537437-800638542.jpeg",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.1 kg",
+        "country_of_origin": "Китай",
+        "material": "Пластик",
+        "color": "Желтый"
+      },
+      "_id": 6,
+      "name": "Фигурка Миньона Стюарт",
+      "category": "Для мальчиков",
+      "description": "Фигурка Миньона Стюарта из популярного мультфильма. Отличный подарок для детей.",
+      "price": 990,
+      "old_price": 1290,
+      "currency": "RUB",
+      "tags": [
+        "хит",
+        "скидка"
+      ],
+      "rating": 4,
+      "img": "https://avatars.mds.yandex.net/get-mpic/12025833/2a0000019655c89050247be8cc9880b6e5c9/orig",
+      "__v": 0
+    },
+    {
+      "characteristics": {
+        "weight": "0.2 kg",
+        "country_of_origin": "Китай",
+        "material": "Картон",
+        "color": "Многоцветный"
+      },
+      "_id": 29,
+      "name": "Карточная игра 'Мафия'",
+      "category": "Настольные игры",
+      "description": "Популярная карточная игра 'Мафия' для компании друзей.",
+      "price": 590,
+      "old_price": 790,
+      "currency": "RUB",
+      "tags": [
+        "новинка",
+        "скидка"
+      ],
+      "rating": 4.5,
+      "img": "https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Mafia/1000/Mafiya_Vsya_Semya_V_Sbore_Maski00-1024x1024-wm.jpg",
+      "__v": 0
+    }
+  ]
+}
