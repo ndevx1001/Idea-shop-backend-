@@ -18,7 +18,7 @@ mongoose.connect(CONNECT_MONGO)
     .catch(err => console.log('Error with connect ' + err))
 
 
-app.use(cors({ origin: ["https://idea-shop.onrender.com", "http:localhost:5173", process.env.CLIENT_URL] , credentials: true }))
+app.use(cors({ origin: ["https://idea-shop.onrender.com", "http://localhost:5173/", process.env.CLIENT_URL] , credentials: true }))
 app.use(express.json())
 
 
