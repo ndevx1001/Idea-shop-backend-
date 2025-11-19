@@ -222,3 +222,29 @@ export const setNewPassword = async(req, res) => {
     }
 }
 
+
+export const updateUser = async (req, res) => {
+  try {
+    const userId = req.user.id; 
+    const { full_name, phone, email, password } = req.body;
+
+    if (!full_name || !phone || !email) {
+      return res.status(400).json({ type: "error", message: "Заполните все обязательные поля" });
+    }
+
+    const updateData = { full_name, phone, email };
+
+    
+    if (password) {
+      const hashedPassword = await bcrypt.hash(password, 10);
+      updateData.password = hashedPassword;
+    }
+
+    const updatedUser = await userModel.findByIdAndUpdate(userId, updateData, { new: true });
+
+    return res.status(200).json({ type: "success", user: updatedUser });
+  } catch (err) {
+    console.error("Ошибка при обновлении профиля:", err);
+    res.status(500).json({ type: "error", message: "Ошибка сервера" });
+  }
+};
