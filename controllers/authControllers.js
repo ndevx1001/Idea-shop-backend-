@@ -226,9 +226,9 @@ export const setNewPassword = async(req, res) => {
 export const updateUser = async (req, res) => {
   try {
     const userId = req.user.id; 
-    const { full_name, phone, email, password } = req.body;
+    const { full_name, phone, gmail, password } = req.body;
 
-    if (!full_name || !phone || !email) {
+    if (!full_name || !phone || !gmail) {
       return res.status(400).json({ type: "error", message: "Заполните все обязательные поля" });
     }
 
